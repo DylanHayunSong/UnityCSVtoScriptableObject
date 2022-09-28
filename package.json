@@ -1,11 +1,11 @@
 {
     "name": "com.kimsongd.unity-csv-to-scriptableobject",
-    "version": "0.1.1",
+    "version": "0.1.0",
     "displayName": "CSV to ScriptableObject",
     "description": "Easly read csv and convert to ScriptableObject \n Contains editor scripts and auto script creator",
     "samples": [
         {
-            "displayName": "CSV data, use case samples",
+            "displayName": "CSVtoScriptableObjectSamples",
             "description": "Contains sample data, use case, scene",
             "path": "Samples~"
         }

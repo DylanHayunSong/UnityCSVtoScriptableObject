@@ -621,7 +621,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dataTableManager: {fileID: 1879428423}
-  sampleData: {fileID: 0}
   visualizeDatasBtn: {fileID: 861033474}
   dataText: {fileID: 1334890527}
 --- !u!4 &1823193442
@@ -669,7 +668,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dataTables:
-  - {fileID: 11400000, guid: f0a002321dc4dc84880738c92312ff91, type: 2}
+  - {fileID: 11400000, guid: 181e0bb14a0ada34697d152710e5b33b, type: 2}
 --- !u!4 &1879428424
 Transform:
   m_ObjectHideFlags: 0
