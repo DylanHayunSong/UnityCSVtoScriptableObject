@@ -21,6 +21,16 @@ Now you can read csv easly and can make scirptable objects automatically
   | ![image](https://user-images.githubusercontent.com/71427168/192918239-254f96ab-61a1-42e6-856a-879403348937.png) | <img title="" src="https://user-images.githubusercontent.com/71427168/192751066-0a0d5d9e-a301-432f-aa19-23d4ab34f241.png" alt="image" data-align="inline"> |
   | ![image](https://user-images.githubusercontent.com/71427168/192918156-8312beb5-d7a6-4e1d-894d-58a94ecf004a.png) |                                                                                                                                                            |
 
+## 
+
+## Install
+
+[Window] -> [Package Manager]
+
+[+] Button -> [Add package from git URL]
+
+https://github.com/DylanHayunSong/UnityCSVtoScriptableObject.git
+
 ## How to use it
 
 * After install package [**Tools**] -> [**DataTable**] -> [**New Table**] menu will be created.  
@@ -39,15 +49,19 @@ Now you can read csv easly and can make scirptable objects automatically
   <img title="" src="https://user-images.githubusercontent.com/71427168/192916029-ace9c3a1-ad4e-4704-880f-2255e50a1e14.png" alt="image" width="450">  <img title="" src="https://user-images.githubusercontent.com/71427168/192916257-65d23480-a6ab-4c66-a511-4f43508d6d65.png" alt="image" width="450">
 
 * After compile scripts **[Create] -> [DataTable] -> [{*dataFileName*}Data]** menu created.  
+  
   <img title="" src="https://user-images.githubusercontent.com/71427168/192916842-f720bff6-c7a3-4481-9881-559381c399d9.png" alt="image" width="450">
 
 * Select above menu then "**New{*dataFileName*}Data**" will be created.  
+  
   <img title="" src="https://user-images.githubusercontent.com/71427168/192917278-24721f75-9566-4506-b21e-68f246c2d450.png" alt="image" width="450">
 
 * Click **[Import]** button at created scriptable object's Inspector.  
+  
   <img src="https://user-images.githubusercontent.com/71427168/192917486-ed6e57c0-4a67-4a27-8f48-eddb96b5fd75.png" title="" alt="image" width="450">
 
 * Then **Row List** will be filled and **child scriptable objects** will be created.   
+  
   <img src="https://user-images.githubusercontent.com/71427168/192917731-3e7fb7e0-9513-422c-be27-fa1fa8917138.png" title="" alt="image" width="450">
 
 * Done!
