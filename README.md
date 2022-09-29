@@ -23,22 +23,22 @@ Now you can read csv easly and can make scirptable objects automatically
 
 ## How to use it
 
-* After install package [**Tools**] -> [**DataTable**] -> [**New Table**] menu will be created.
+* After install package [**Tools**] -> [**DataTable**] -> [**New Table**] menu will be created.  
   <img title="" src="https://user-images.githubusercontent.com/71427168/192751865-d075da2f-a59e-4453-8153-6512fe7ed480.png" alt="image" width="450">  
 
-* Select [**NewTable**] then **Define New Datatable** tab will appear.
+* Select [**NewTable**] then **Define New Datatable** tab will appear.  
   <img title="" src="https://user-images.githubusercontent.com/71427168/192914567-76835e08-ab9e-4771-9ceb-0bdc3d943be9.png" alt="image" width="450">  
 
-* Click [**Browse..**] button to find data sheet(.csv)
+* Click [**Browse..**] button to find data sheet(.csv)  
   <img title="" src="https://user-images.githubusercontent.com/71427168/192914629-64f5c7cd-149b-40ac-ad94-72a123c75bec.png" alt="image" width="450">  
 
-* Then select correct type of each field.
+* Then select correct type of each field.  
   <img title="" src="https://user-images.githubusercontent.com/71427168/192915248-d24326a9-bdb3-4a07-8e5c-627955b061ba.png" alt="image" width="450">  
 
-* If all type of fields are correct, Click [**Gererate Scripts**] button for generate scripts.
+* If all type of fields are correct, Click [**Gererate Scripts**] button for generate scripts.  
   <img title="" src="https://user-images.githubusercontent.com/71427168/192916029-ace9c3a1-ad4e-4704-880f-2255e50a1e14.png" alt="image" width="450">  <img title="" src="https://user-images.githubusercontent.com/71427168/192916257-65d23480-a6ab-4c66-a511-4f43508d6d65.png" alt="image" width="450">
 
-* After compile scripts **[Create] -> [DataTable] -> [{*dataFileName*}Data]** menu created.
+* After compile scripts **[Create] -> [DataTable] -> [{*dataFileName*}Data]** menu created.  
   <img title="" src="https://user-images.githubusercontent.com/71427168/192916842-f720bff6-c7a3-4481-9881-559381c399d9.png" alt="image" width="450">
 
 * Select above menu then "**New{*dataFileName*}Data**" will be created.  
@@ -47,7 +47,7 @@ Now you can read csv easly and can make scirptable objects automatically
 * Click **[Import]** button at created scriptable object's Inspector.  
   <img src="https://user-images.githubusercontent.com/71427168/192917486-ed6e57c0-4a67-4a27-8f48-eddb96b5fd75.png" title="" alt="image" width="450">
 
-* Then **Row List** will be filled and **child scriptable objects** will be created.
+* Then **Row List** will be filled and **child scriptable objects** will be created.   
   <img src="https://user-images.githubusercontent.com/71427168/192917731-3e7fb7e0-9513-422c-be27-fa1fa8917138.png" title="" alt="image" width="450">
 
 * Done!
