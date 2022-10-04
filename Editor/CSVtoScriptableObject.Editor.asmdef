@@ -1,10 +1,12 @@
 {
-    "name": "kimsongd.unity-csv-to-scriptableobject.editor",
+    "name": "CSVtoScriptableObject.Editor",
     "rootNamespace": "",
     "references": [
         "GUID:4b7f171390b681647a30d9ae2b8a1f24"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

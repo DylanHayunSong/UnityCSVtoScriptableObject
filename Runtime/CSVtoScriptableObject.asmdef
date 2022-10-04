@@ -1,5 +1,5 @@
 {
-    "name": "kimsongd.unity-csv-to-scriptableobject",
+    "name": "CSVtoScriptableObject",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
